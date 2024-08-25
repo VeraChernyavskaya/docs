@@ -5,3 +5,9 @@
 
 Тест-кейсы для интернет-магазина:
 <https://github.com/VeraChernyavskaya/docs/blob/main/Chernyavskaya_Test_cases.pdf>
+
+Test run:
+<https://github.com/VeraChernyavskaya/docs/blob/main/Chernyavskaya_Test-run.pdf>
+
+Bug report:
+<https://github.com/VeraChernyavskaya/docs/blob/main/Chernyavskaya_Bug_report.xlsx>
